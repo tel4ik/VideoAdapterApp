@@ -103,7 +103,7 @@ namespace VideoAdapterApp.Presentor
 
         private void DropCompareList(object sender, EventArgs e)
         {
-            string fileName = @"C:\Users\tawer\OneDrive\Рабочий стол\C#_project\VideoAdapter\VideoAdapterApp\VideoAdapterApp\Content\CompareVidecart.xlsx";
+            string fileName = @".\Content\CompareVidecart.xlsx";
             List<string> chars = new List<string> { "B", "C", "D", "E", "F", "G", "H", "I", "J", };
 
             Excel.Application xlApp = new Excel.Application();
