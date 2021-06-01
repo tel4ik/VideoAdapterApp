@@ -34,6 +34,9 @@
 Добавление видеокарт в список для сравнения. Нужно выбрать видокарту в списке и нажать кнопку добавить в список сравнения 
 ![image](https://user-images.githubusercontent.com/78801557/118853684-aece3e80-b8dc-11eb-96cc-b5077c0b6c7e.png)
 
+## Отбражение сравниваемых видеокарт
+![image](https://user-images.githubusercontent.com/78801557/120375528-93732280-c323-11eb-97f7-49288f42c0a5.png)
+
 ## Оформление файла, в который видеокарты  
 ![image](https://user-images.githubusercontent.com/78801557/118853819-d6bda200-b8dc-11eb-8e89-e485ae71223f.png)
 
